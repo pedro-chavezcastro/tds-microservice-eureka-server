@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.com.viveres.susy.microservice-eureka-server</groupId>
-	<artifactId>microservice-eureka-server</artifactId>
+	<artifactId>tds-microservice-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>microservice-eureka-server</name>
+	<name>tds-microservice-eureka-server</name>
 	<description>Eureka server</description>
 	<properties>
 		<java.version>11</java.version>
